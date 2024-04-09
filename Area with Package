@@ -87,3 +87,33 @@ public class TestShapes {
 
  }
 }
+------------------------------------------------------------------------------------------------------------
+
+STEPS TO DO PACKAGE PROBELEMS
+______________________________
+
+steps to do it
+=======================
+1)Open IntelliJ IDEA: Launch IntelliJ IDEA on your computer.
+
+2)Create a New Project: If you haven't already created a project, you can do so by selecting "File" > "New" > "Project". Choose the type of project you want to create (e.g., Java, Kotlin, etc.), and follow the prompts to set up your project.
+
+3)Create a New Package:
+
+In the Project tool window on the left side of the screen, right-click on the source directory (usually named "src").
+Select "New" > "Package" from the context menu.
+Enter the name of your package (e.g., "com.example.myproject").
+Press Enter to create the package.
+Add Classes to the Package:
+
+Right-click on the newly created package.
+Select "New" > "Java Class" or "Kotlin File/Class" depending on your project type.
+Enter the name of the class you want to create.
+Press Enter to create the class.
+Organize Classes Within the Package: You can continue adding more classes to the package by repeating the steps above. Organize your classes logically within the package structure.
+
+Add Code to Your Classes: Double-click on the class files to open them in the editor and start writing your code.
+
+(Optional) Configure Dependencies: If your package requires external libraries or dependencies, you can add them to your project's build configuration. This typically involves modifying the build.gradle or pom.xml file depending on whether you're using Gradle or Maven as your build system.
+
+Build and Run Your Project: Once you've written your code, you can build and run your project to test it. Use the options available in IntelliJ IDEA's toolbar or use keyboard shortcuts to build and run your code.
